@@ -1,0 +1,1 @@
+استبدل فقط index.html و game.js في مشروع EX_ALJAZIRA_VOXEL_V1 بهذين الملفين ثم أعد الرفع إلى GitHub Pages.
